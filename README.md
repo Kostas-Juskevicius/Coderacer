@@ -44,8 +44,8 @@ Two distinct game modes for different skill development goals:
 ## Architecture Overview
 
 [ Frontend ] ⇄ [ REST API ] ⇄ [ Backend Services ] ⇄ [ Database ]  
-                                                ⇵  
-                                   [ Code Execution Microservice ]  
+                         ⇵  
+                 [ Code Execution Microservice ]  
 
 ---
 
